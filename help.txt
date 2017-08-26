@@ -1,0 +1,134 @@
+█░░╦─╦╔╗╦─╔╗╔╗╔╦╗╔╗░░█
+█░░║║║╠─║─║─║║║║║╠─░░█
+█░░╚╩╝╚╝╚╝╚╝╚╝╩─╩╚╝░░█
+Hi, my lovely text_editor user!
+There are some functions...
+Let's go thought them! ~with love~
+
+very VERY important comand: print pages
+
+It will show you amazing text that is already in our MAGIC TEXT EDITOR!
+If you push space it will show more strings... wow! You wanted to say it, didn't you?
+If you push 'q' you exit from print pages... :(
+
+comand: print range int from, int to
+
+It will print to you strings from string from to string to!~~~ very intresting:)
+You can use only int from then it will print all strings to end of them...
+Or If you are lazy you can write "print range" and it will print ALL strings
+
+comand: delete range int from int to
+
+from and to works the same way like in print range... you know ;)
+But this comand will DELETE DELETE DELETE strings
+Do you understand? D-E-L-E-T-E
+
+Let's watch on this cute cat ('')<(^_^)>('')
+▌─────────────────────────▐█─────▐
+▌────▄──────────────────▄█▓█▌────▐
+▌───▐██▄───────────────▄▓░░▓▓────▐
+▌───▐█░██▓────────────▓▓░░░▓▌────▐
+▌───▐█▌░▓██──────────█▓░░░░▓─────▐
+▌────▓█▌░░▓█▄███████▄███▓░▓█─────▐
+▌────▓██▌░▓██░░░░░░░░░░▓█░▓▌─────▐
+▌─────▓█████░░░░░░░░░░░░▓██──────▐
+▌─────▓██▓░░░░░░░░░░░░░░░▓█──────▐
+▌─────▐█▓░░░░░░█▓░░▓█░░░░▓█▌─────▐
+▌─────▓█▌░▓█▓▓██▓░█▓▓▓▓▓░▓█▌─────▐
+▌─────▓▓░▓██████▓░▓███▓▓▌░█▓─────▐
+▌────▐▓▓░█▄▐▓▌█▓░░▓█▐▓▌▄▓░██─────▐
+▌────▓█▓░▓█▄▄▄█▓░░▓█▄▄▄█▓░██▌────▐
+▌────▓█▌░▓█████▓░░░▓███▓▀░▓█▓────▐
+▌───▐▓█░░░▀▓██▀░░░░░─▀▓▀░░▓█▓────▐
+▌───▓██░░░░░░░░▀▄▄▄▄▀░░░░░░▓▓────▐
+▌───▓█▌░░░░░░░░░░▐▌░░░░░░░░▓▓▌───▐
+▌───▓█░░░░░░░░░▄▀▀▀▀▄░░░░░░░█▓───▐
+▌──▐█▌░░░░░░░░▀░░░░░░▀░░░░░░█▓▌──▐
+▌──▓█░░░░░░░░░░░░░░░░░░░░░░░██▓──▐
+▌──▓█░░░░░░░░░░░░░░░░░░░░░░░▓█▓──▐
+▌──██░░░░░░░░░░░░░░░░░░░░░░░░█▓──▐
+▌──█▌░░░░░░░░░░░░░░░░░░░░░░░░▐▓▌─▐
+▌─▐▓░░░░░░░░░░░░░░░░░░░░░░░░░░█▓─▐
+▌─█▓░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓─▐
+▌─█▓░░░░░░░░░░░░░░░░░░░░░░░░░░▓▓▌▐
+▌▐█▓░░░░░░░░░░░░░░░░░░░░░░░░░░░██▐
+▌█▓▌░░░░░░░░░░░░░░░░░░░░░░░░░░░▓█▐
+██████████████████████████████████
+█░▀░░░░▀█▀░░░░░░▀█░░░░░░▀█▀░░░░░▀█
+█░░▐█▌░░█░░░██░░░█░░██░░░█░░░██░░█
+█░░▐█▌░░█░░░██░░░█░░██░░░█░░░██░░█
+█░░▐█▌░░█░░░██░░░█░░░░░░▄█░░▄▄▄▄▄█
+█░░▐█▌░░█░░░██░░░█░░░░████░░░░░░░█
+█░░░█░░░█▄░░░░░░▄█░░░░████▄░░░░░▄█
+██████████████████████████████████
+
+comand: edit string int pos char ins_char
+
+It will insert char ins_char after position pos!
+If insert char is '\' It will insert "\\". Cool, right?
+
+***
+- Why don't you love this command?
+- BECAUSE
+***
+
+comand: insert after int num "str"
+
+It will insert string str after string with number num...
+You can write something like """
+first string
+second string
+and so on
+"""
+instead of "str" if you want!
+IT WILL WORK
+...
+...
+... I hope ...
+
+If you missed writing num - don't worry... It will insert our strings after ALL
+
+comand: replace int from int to "str1" "str2"
+
+Terrible comand...
+from and to works the same way... you know
+Ok, it will replace str1 to str 2 from string from to string to.
+You can use '^' or '$' instead of "str1"
+'^' it will insert "str2" in the beginning of each string
+'$' -//- ending -//-
+
+AND MAGIC:
+If str2 == s1\ns2\ns3\ns4 ....
+It will insert STRINGS s1 s2 s3 s4 ...
+cool, yeah!
+
+comand: delete braces int from int to
+
+from & to you know...
+It will delete chars between the braces (*whisper* and braces too)
+I hope that braces sequence is right! >_<
+If it isn't I'll become HULK AND SMASH SMASH SMASH... you know)))
+
+comand: help
+
+you know what this comand is doing... right... now...
+
+comand: read filename
+
+It replace all text to text from filename
+
+comand: open filename
+
+Like read, but... it remembers the filename
+
+comand: write filename
+
+Write all to filename...
+If there is no filename then it write all to remembered filename
+If there is no filenames IT WILL BE ANGRY! (editor, of course)
+
+comand: exit
+
+Yeah, exit and say buybuy to this AMAZING text editor :C
+
+Looking forward to ... 
